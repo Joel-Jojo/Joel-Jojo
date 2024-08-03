@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel Jojo Mathew.
 - 👀 I’m interested in all things data related, web and app development.
-- 🌱 I’m currently learning Btech CSE (Splz in Data Analytics).
+- 🌱 I’m completed Btech CSE (Splz in Data Analytics).
 - 💞️ I’m looking to collaborate on data science and software related projects.
 - 📫 Reach me at joeljojo@karunya.edu.in  
 
